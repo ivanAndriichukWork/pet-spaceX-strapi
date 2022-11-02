@@ -6,4 +6,4 @@ node v16.3.0
  * admin login : vitaliypoltorak91@gmail.com
  * admin password : Password1
 
->back-end part for pet_spacex_gatsbyJs_strapi 
+>back-end part for pet_spacex_gatsbyJs_strapi => https://github.com/ivanAndriichukWork/pet-spaceX
